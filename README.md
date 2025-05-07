@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @mrmeepmeep
-- 👀 I’m interested in ... fitness and learning tech
-- 🌱 I’m currently learning ... Coding on TheOdinProject
-- 💞️ I’m looking to connect to other developers! :)
+Hello
